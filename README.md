@@ -24,6 +24,16 @@ https://raw.githubusercontent.com/MarzioCostantini/cars/main/vehicleTypes.json
 Hier ist der Link, um alle verfügbaren Fahrzeugfarben abzurufen:
 https://raw.githubusercontent.com/MarzioCostantini/cars/main/vehicleColors.json
 
+### Alle Schaltungstypen abrufen
+
+Hier ist der Link, um alle verfügbaren Schaltungstypen abzurufen:
+https://raw.githubusercontent.com/MarzioCostantini/cars/main/vehicleGears.json
+
+### Alle Antriebstypen abrufen
+
+Hier ist der Link, um alle verfügbaren Antriebstypen abzurufen:
+https://raw.githubusercontent.com/MarzioCostantini/cars/main/vehicleFuels.json
+
 ## Hinweise
 
 - Die Daten werden im JSON-Format bereitgestellt.
