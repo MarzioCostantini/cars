@@ -25,7 +25,10 @@
       "amount": 20000,
       "currency": "EUR"
     },
-    "ps": 110
+    "ps": 110,
+    "consumption": "7",
+    "fuel": "Gasoline",
+    "gearType": "Manuel"
   },
   {
     "vehicleID": "V1002",
@@ -53,7 +56,10 @@
       "amount": 30000,
       "currency": "EUR"
     },
-    "ps": 150
+    "ps": 150,
+    "consumption": "9",
+    "fuel": "Gasoline",
+    "gearType": "Automatic"
   },
   {
     "vehicleID": "V1003",
@@ -81,7 +87,10 @@
       "amount": 50000,
       "currency": "EUR"
     },
-    "ps": 250
+    "ps": 250,
+    "consumption": "15,7 kWh",
+    "fuel": "Electrical",
+    "gearType": "Automatic"
   },
   {
     "vehicleID": "V1004",
@@ -109,7 +118,10 @@
       "amount": 18000,
       "currency": "EUR"
     },
-    "ps": 90
+    "ps": 90,
+    "consumption": "5",
+    "fuel": "Gasoline",
+    "gearType": "Manuel"
   },
   {
     "vehicleID": "V1005",
@@ -117,14 +129,7 @@
     "model": "Fiesta",
     "year": 2020,
     "vehicleType": "Hatchback",
-    "locations": [
-      "Frankfurt",
-      "Stuttgart",
-      "Munich",
-      "Düsseldorf",
-      "Erfurt",
-      "Neumünster"
-    ],
+    "locations": ["Frankfurt", "Stuttgart", "Munich", "Erfurt", "Neumünster"],
     "pricePerDay": 55,
     "availability": true,
     "car": "White",
@@ -137,7 +142,10 @@
       "amount": 17000,
       "currency": "EUR"
     },
-    "ps": 85
+    "ps": 85,
+    "consumption": "6",
+    "fuel": "Gasoline",
+    "gearType": "Manuel"
   },
   {
     "vehicleID": "V1006",
@@ -165,7 +173,11 @@
       "amount": 25000,
       "currency": "EUR"
     },
-    "ps": 120
+    "ps": 120,
+
+    "consumption": "5,7",
+    "fuel": "Diesel",
+    "gearType": "Automatic"
   },
   {
     "vehicleID": "V1007",
@@ -193,7 +205,10 @@
       "amount": 30000,
       "currency": "EUR"
     },
-    "ps": 150
+    "ps": 150,
+    "consumption": "5,7",
+    "fuel": "Diesel",
+    "gearType": "Automatic"
   },
   {
     "vehicleID": "V1008",
@@ -221,7 +236,10 @@
       "amount": 19000,
       "currency": "EUR"
     },
-    "ps": 95
+    "ps": 95,
+    "consumption": "6,7",
+    "fuel": "Autogas",
+    "gearType": "Manuel"
   },
   {
     "vehicleID": "V1009",
@@ -249,7 +267,10 @@
       "amount": 35000,
       "currency": "EUR"
     },
-    "ps": 140
+    "ps": 140,
+    "consumption": "9,7",
+    "fuel": "Gasoline",
+    "gearType": "Automatic"
   },
   {
     "vehicleID": "V1010",
@@ -277,7 +298,10 @@
       "amount": 17000,
       "currency": "EUR"
     },
-    "ps": 80
+    "ps": 80,
+    "consumption": "7",
+    "fuel": "Gasoline",
+    "gearType": "Manuel"
   },
   {
     "vehicleID": "V1011",
@@ -305,7 +329,10 @@
       "amount": 18000,
       "currency": "EUR"
     },
-    "ps": 85
+    "ps": 85,
+    "consumption": "4",
+    "fuel": "Gasoline",
+    "gearType": "Manuel"
   },
   {
     "vehicleID": "V1017",
@@ -333,7 +360,10 @@
       "amount": 25000,
       "currency": "EUR"
     },
-    "ps": 120
+    "ps": 120,
+    "consumption": "6",
+    "fuel": "Gasoline",
+    "gearType": "Manuel"
   },
   {
     "vehicleID": "V1012",
@@ -361,7 +391,10 @@
       "amount": 20000,
       "currency": "EUR"
     },
-    "ps": 90
+    "ps": 90,
+    "consumption": "5,5",
+    "fuel": "Gasoline",
+    "gearType": "Manuel"
   },
   {
     "vehicleID": "V1013",
@@ -389,7 +422,10 @@
       "amount": 22000,
       "currency": "EUR"
     },
-    "ps": 110
+    "ps": 110,
+    "consumption": "6,4",
+    "fuel": "Gasoline",
+    "gearType": "Manuel"
   },
   {
     "vehicleID": "V1014",
@@ -417,7 +453,10 @@
       "amount": 23000,
       "currency": "EUR"
     },
-    "ps": 115
+    "ps": 115,
+    "consumption": "4,8",
+    "fuel": "Gasoline",
+    "gearType": "Manuel"
   },
   {
     "vehicleID": "V1015",
@@ -445,7 +484,10 @@
       "amount": 28000,
       "currency": "EUR"
     },
-    "ps": 150
+    "ps": 150,
+    "consumption": "5",
+    "fuel": "Diesel",
+    "gearType": "Automatic"
   },
   {
     "vehicleID": "V1016",
@@ -473,7 +515,10 @@
       "amount": 32000,
       "currency": "EUR"
     },
-    "ps": 180
+    "ps": 180,
+    "consumption": "4,5",
+    "fuel": "Diesel",
+    "gearType": "Automatic"
   },
   {
     "vehicleID": "V1017",
@@ -501,7 +546,10 @@
       "amount": 30000,
       "currency": "EUR"
     },
-    "ps": 170
+    "ps": 170,
+    "consumption": "6",
+    "fuel": "Diesel",
+    "gearType": "Automatic"
   },
   {
     "vehicleID": "V1018",
@@ -529,7 +577,10 @@
       "amount": 29000,
       "currency": "EUR"
     },
-    "ps": 160
+    "ps": 160,
+    "consumption": "5",
+    "fuel": "Gasoline",
+    "gearType": "Automatic"
   },
   {
     "vehicleID": "V1010",
@@ -550,7 +601,10 @@
       "amount": 70000,
       "currency": "EUR"
     },
-    "ps": 600
+    "ps": 600,
+    "consumption": "12",
+    "fuel": "Gasoline",
+    "gearType": "Automatic"
   },
   {
     "vehicleID": "V1011",
@@ -571,7 +625,10 @@
       "amount": 120000,
       "currency": "EUR"
     },
-    "ps": 650
+    "ps": 650,
+    "consumption": "16,6",
+    "fuel": "Gasoline",
+    "gearType": "Automatic"
   },
   {
     "vehicleID": "V1012",
@@ -592,7 +649,10 @@
       "amount": 110000,
       "currency": "EUR"
     },
-    "ps": 700
+    "ps": 700,
+    "consumption": "16",
+    "fuel": "Gasoline",
+    "gearType": "Automatic"
   },
   {
     "vehicleID": "V1013",
@@ -613,7 +673,10 @@
       "amount": 107000,
       "currency": "EUR"
     },
-    "ps": 680
+    "ps": 680,
+    "consumption": "18",
+    "fuel": "Gasoline",
+    "gearType": "Automatic"
   },
   {
     "vehicleID": "V1014",
@@ -634,7 +697,10 @@
       "amount": 160000,
       "currency": "EUR"
     },
-    "ps": 750
+    "ps": 750,
+    "consumption": "18,8",
+    "fuel": "Gasoline",
+    "gearType": "Automatic"
   },
   {
     "vehicleID": "V1015",
@@ -655,7 +721,10 @@
       "amount": 40000,
       "currency": "EUR"
     },
-    "ps": 180
+    "ps": 180,
+    "consumption": "7,7",
+    "fuel": "Diesel",
+    "gearType": "Manuel"
   },
   {
     "vehicleID": "V1019",
@@ -676,7 +745,10 @@
       "amount": 25000,
       "currency": "EUR"
     },
-    "ps": 130
+    "ps": 130,
+    "consumption": "7,7",
+    "fuel": "Gasoline",
+    "gearType": "Automatic"
   },
   {
     "vehicleID": "V1020",
@@ -703,7 +775,10 @@
       "amount": 55000,
       "currency": "EUR"
     },
-    "ps": 190
+    "ps": 190,
+    "consumption": "8,9",
+    "fuel": "Diesel",
+    "gearType": "Automatic"
   },
   {
     "vehicleID": "V1021",
@@ -724,7 +799,10 @@
       "amount": 30000,
       "currency": "EUR"
     },
-    "ps": 150
+    "ps": 150,
+    "consumption": "7",
+    "fuel": "Gasoline",
+    "gearType": "Automatic"
   },
   {
     "vehicleID": "V1022",
@@ -745,7 +823,10 @@
       "amount": 35000,
       "currency": "EUR"
     },
-    "ps": 130
+    "ps": 130,
+    "consumption": "8,3",
+    "fuel": "Diesel",
+    "gearType": "Manuel"
   },
   {
     "vehicleID": "V1023",
@@ -766,7 +847,10 @@
       "amount": 45000,
       "currency": "EUR"
     },
-    "ps": 200
+    "ps": 200,
+    "consumption": "6,3",
+    "fuel": "Diesel",
+    "gearType": "Automatic"
   },
   {
     "vehicleID": "V1024",
@@ -787,7 +871,10 @@
       "amount": 22000,
       "currency": "EUR"
     },
-    "ps": 140
+    "ps": 140,
+    "consumption": "5,2",
+    "fuel": "Gasoline",
+    "gearType": "Automatic"
   },
   {
     "vehicleID": "V1025",
@@ -808,7 +895,10 @@
       "amount": 32000,
       "currency": "EUR"
     },
-    "ps": 130
+    "ps": 130,
+    "consumption": "7",
+    "fuel": "Diesel",
+    "gearType": "Automatic"
   },
   {
     "vehicleID": "V1026",
@@ -829,7 +919,10 @@
       "amount": 20000,
       "currency": "EUR"
     },
-    "ps": 110
+    "ps": 110,
+    "consumption": "8",
+    "fuel": "Diesel",
+    "gearType": "Manuel"
   },
   {
     "vehicleID": "V1027",
@@ -850,7 +943,10 @@
       "amount": 40000,
       "currency": "EUR"
     },
-    "ps": 200
+    "ps": 200,
+    "consumption": "6,8",
+    "fuel": "Gasoline",
+    "gearType": "Manuel"
   },
   {
     "vehicleID": "V1028",
@@ -871,6 +967,9 @@
       "amount": 23000,
       "currency": "EUR"
     },
-    "ps": 120
+    "ps": 120,
+    "consumption": "4,9",
+    "fuel": "Diesel",
+    "gearType": "Manuel"
   }
 ]
