@@ -1,0 +1,876 @@
+[
+  {
+    "vehicleID": "V1001",
+    "brand": "Volkswagen",
+    "model": "Golf",
+    "year": 2018,
+    "vehicleType": "Sedan",
+    "locations": [
+      "Berlin",
+      "Munich",
+      "Hamburg",
+      "Wiesbaden",
+      "Gelsenkirchen",
+      "Leipzig"
+    ],
+    "pricePerDay": 50,
+    "availability": true,
+    "car": "Blue",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712567777/Cars/Golf.webp",
+    "seats": 5,
+    "luggage": 2,
+    "horstpower": "Medium",
+    "price": {
+      "amount": 20000,
+      "currency": "EUR"
+    },
+    "ps": 110
+  },
+  {
+    "vehicleID": "V1002",
+    "brand": "BMW",
+    "model": "3 Series",
+    "year": 2020,
+    "vehicleType": "Sedan",
+    "locations": [
+      "Munich",
+      "Frankfurt",
+      "Hamburg",
+      "Coburg",
+      "Wuppertal",
+      "Grimma"
+    ],
+    "pricePerDay": 70,
+    "availability": true,
+    "car": "Black",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712567800/Cars/DALL_E_2024-04-08_11.07.40_-_Create_an_image_on_a_white_background_featuring_a_black_2020_BMW_3_Series_sedan._The_car_should_emphasize_its_luxurious_and_sporty_design_which_BMW_i_qpsa2h.webp",
+    "seats": 5,
+    "luggage": 2,
+    "horstpower": "High",
+    "price": {
+      "amount": 30000,
+      "currency": "EUR"
+    },
+    "ps": 150
+  },
+  {
+    "vehicleID": "V1003",
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2021,
+    "vehicleType": "Electric Car",
+    "locations": [
+      "Berlin",
+      "Munich",
+      "Hamburg",
+      "Delmenhorst",
+      "Herne",
+      "Lörrach"
+    ],
+    "pricePerDay": 90,
+    "availability": false,
+    "car": "Red",
+    "electricVehicle": true,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712567902/Cars/DALL_E_2024-04-08_11.18.15_-_Create_an_image_on_a_white_background_featuring_a_red_2021_Tesla_Model_3_electric_car._The_car_should_showcase_its_modern_sleek_design_highlighting_cchgyw.webp",
+    "seats": 4,
+    "luggage": 3,
+    "horstpower": "High",
+    "price": {
+      "amount": 50000,
+      "currency": "EUR"
+    },
+    "ps": 250
+  },
+  {
+    "vehicleID": "V1004",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2019,
+    "vehicleType": "Sedan",
+    "locations": [
+      "Hamburg",
+      "Cologne",
+      "Dusseldorf",
+      "Bamberg",
+      "Griesheim",
+      "Wetter"
+    ],
+    "pricePerDay": 60,
+    "availability": true,
+    "car": "Silver",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712567927/Cars/DALL_E_2024-04-08_11.18.41_-_Create_an_image_on_a_white_background_featuring_a_silver_2019_Toyota_Corolla_sedan._The_car_should_showcase_its_reliable_and_functional_design_typica_ow5sf1.webp",
+    "seats": 4,
+    "luggage": 1,
+    "horstpower": "Low",
+    "price": {
+      "amount": 18000,
+      "currency": "EUR"
+    },
+    "ps": 90
+  },
+  {
+    "vehicleID": "V1005",
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2020,
+    "vehicleType": "Hatchback",
+    "locations": [
+      "Frankfurt",
+      "Stuttgart",
+      "Munich",
+      "Düsseldorf",
+      "Erfurt",
+      "Neumünster"
+    ],
+    "pricePerDay": 55,
+    "availability": true,
+    "car": "White",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712567988/Cars/DALL_E_2024-04-08_11.19.42_-_Create_an_image_on_a_white_background_featuring_a_white_2020_Ford_Fiesta_hatchback._The_car_should_showcase_its_compact_and_efficient_design_highligh_tsehtt.webp",
+    "seats": 4,
+    "luggage": 1,
+    "horstpower": "Low",
+    "price": {
+      "amount": 17000,
+      "currency": "EUR"
+    },
+    "ps": 85
+  },
+  {
+    "vehicleID": "V1006",
+    "brand": "Mercedes-Benz",
+    "model": "A-Class",
+    "year": 2019,
+    "vehicleType": "Sedan",
+    "locations": [
+      "Berlin",
+      "Hamburg",
+      "Munich",
+      "Bremen",
+      "Kaiserslautern",
+      "Gießen"
+    ],
+    "pricePerDay": 75,
+    "availability": true,
+    "car": "Gray",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712568011/Cars/DALL_E_2024-04-08_11.20.05_-_Create_an_image_on_a_white_background_featuring_a_gray_2019_Mercedes-Benz_A-Class_sedan._The_car_should_emphasize_its_luxurious_and_sophisticated_desi_puw8xj.webp",
+    "seats": 5,
+    "luggage": 1,
+    "horstpower": "Medium",
+    "price": {
+      "amount": 25000,
+      "currency": "EUR"
+    },
+    "ps": 120
+  },
+  {
+    "vehicleID": "V1007",
+    "brand": "Audi",
+    "model": "A3",
+    "year": 2020,
+    "vehicleType": "Sedan",
+    "locations": [
+      "Stuttgart",
+      "Munich",
+      "Hamburg",
+      "Bonn",
+      "Duisburg",
+      "Rostock"
+    ],
+    "pricePerDay": 80,
+    "availability": true,
+    "car": "Black",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712568059/Cars/DALL_E_2024-04-08_11.20.53_-_Create_an_image_on_a_white_background_featuring_a_black_2020_Audi_A3_sedan._The_car_should_showcase_its_sleek_and_modern_design_highlighting_Audi_s_r_vfqe98.webp",
+    "seats": 5,
+    "luggage": 2,
+    "horstpower": "High",
+    "price": {
+      "amount": 30000,
+      "currency": "EUR"
+    },
+    "ps": 150
+  },
+  {
+    "vehicleID": "V1008",
+    "brand": "Hyundai",
+    "model": "i30",
+    "year": 2019,
+    "vehicleType": "Hatchback",
+    "locations": [
+      "Cologne",
+      "Frankfurt",
+      "Berlin",
+      "Regensburg",
+      "Herten",
+      "Reutlingen"
+    ],
+    "pricePerDay": 65,
+    "availability": true,
+    "car": "Silver",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712568098/Cars/DALL_E_2024-04-08_11.21.32_-_Create_an_image_on_a_white_background_featuring_a_silver_2019_Hyundai_i30_hatchback._The_car_should_showcase_its_practical_and_stylish_design_highlig_ntoiyr.webp",
+    "seats": 4,
+    "luggage": 2,
+    "horstpower": "Low",
+    "price": {
+      "amount": 19000,
+      "currency": "EUR"
+    },
+    "ps": 95
+  },
+  {
+    "vehicleID": "V1009",
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2020,
+    "vehicleType": "SUV",
+    "locations": [
+      "Hamburg",
+      "Dusseldorf",
+      "Munich",
+      "Wuppertal",
+      "Cottbus",
+      "Potsdam"
+    ],
+    "pricePerDay": 85,
+    "availability": true,
+    "car": "White",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712568196/Cars/DALL_E_2024-04-08_11.23.10_-_Create_an_image_on_a_white_background_featuring_a_white_2020_Kia_Sportage_SUV._The_car_should_showcase_its_versatile_and_robust_design_emphasizing_Ki_s9rdio.webp",
+    "seats": 5,
+    "luggage": 2,
+    "horstpower": "Medium",
+    "price": {
+      "amount": 35000,
+      "currency": "EUR"
+    },
+    "ps": 140
+  },
+  {
+    "vehicleID": "V1010",
+    "brand": "Renault",
+    "model": "Clio",
+    "year": 2018,
+    "vehicleType": "Hatchback",
+    "locations": [
+      "Berlin",
+      "Cologne",
+      "Dusseldorf",
+      "Würzburg",
+      "Radebeul",
+      "Sinsheim"
+    ],
+    "pricePerDay": 60,
+    "availability": true,
+    "car": "Blue",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712568206/Cars/DALL_E_2024-04-08_11.23.20_-_Create_an_image_on_a_white_background_featuring_a_blue_2018_Renault_Clio_hatchback._The_car_should_showcase_its_compact_and_efficient_design_highligh_hdzuog.webp",
+    "seats": 4,
+    "luggage": 1,
+    "horstpower": "Low",
+    "price": {
+      "amount": 17000,
+      "currency": "EUR"
+    },
+    "ps": 80
+  },
+  {
+    "vehicleID": "V1011",
+    "brand": "Peugeot",
+    "model": "208",
+    "year": 2021,
+    "vehicleType": "Hatchback",
+    "locations": [
+      "Munich",
+      "Hamburg",
+      "Stuttgart",
+      "Oberhausen",
+      "Hildesheim",
+      "Halberstadt"
+    ],
+    "pricePerDay": 70,
+    "availability": true,
+    "car": "Red",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712568539/Cars/DALL_E_2024-04-08_11.28.51_-_Create_an_image_on_a_white_background_featuring_a_red_2021_Peugeot_208_hatchback._The_car_should_showcase_its_modern_and_stylish_design_highlighting_oz86kj.webp",
+    "seats": 4,
+    "luggage": 1,
+    "horstpower": "Low",
+    "price": {
+      "amount": 18000,
+      "currency": "EUR"
+    },
+    "ps": 85
+  },
+  {
+    "vehicleID": "V1017",
+    "brand": "Skoda",
+    "model": "Rapid",
+    "year": 2022,
+    "vehicleType": "Sedan",
+    "locations": [
+      "Dresden",
+      "Trier",
+      "Darmstadt",
+      "Nuremberg",
+      "Flensburg",
+      "Chemnitz"
+    ],
+    "pricePerDay": 80,
+    "availability": true,
+    "car": "Blue",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712568738/Cars/DALL_E_2024-04-08_11.32.12_-_Create_an_image_on_a_white_background_featuring_a_blue_2022_Skoda_Rapid_Spaceback._The_car_should_be_presented_in_the_same_position_as_the_previous_ca_xrzcpt.webp",
+    "seats": 5,
+    "luggage": 2,
+    "horstpower": "Medium",
+    "price": {
+      "amount": 25000,
+      "currency": "EUR"
+    },
+    "ps": 120
+  },
+  {
+    "vehicleID": "V1012",
+    "brand": "Opel",
+    "model": "Corsa",
+    "year": 2020,
+    "vehicleType": "Hatchback",
+    "locations": [
+      "Berlin",
+      "Cologne",
+      "Dusseldorf",
+      "Marburg",
+      "Castrop-Rauxel",
+      "Böblingen"
+    ],
+    "pricePerDay": 65,
+    "availability": true,
+    "car": "Gray",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712568544/Cars/DALL_E_2024-04-08_11.28.58_-_Create_an_image_on_a_white_background_featuring_a_gray_2020_Opel_Corsa_hatchback._The_car_should_showcase_its_compact_and_efficient_design_highlighti_pxphnl.webp",
+    "seats": 4,
+    "luggage": 1,
+    "horstpower": "Low",
+    "price": {
+      "amount": 20000,
+      "currency": "EUR"
+    },
+    "ps": 90
+  },
+  {
+    "vehicleID": "V1013",
+    "brand": "Seat",
+    "model": "Ibiza",
+    "year": 2019,
+    "vehicleType": "Hatchback",
+    "locations": [
+      "Munich",
+      "Hamburg",
+      "Berlin",
+      "Mannheim",
+      "Herford",
+      "Papenburg"
+    ],
+    "pricePerDay": 60,
+    "availability": true,
+    "car": "Black",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712568974/Cars/DALL_E_2024-04-08_11.36.07_-_Create_an_image_on_a_white_background_featuring_a_black_2019_Seat_Ibiza_hatchback._Ensure_the_entire_image_including_edges_remains_bright_with_a_min_ijnzau.webp",
+    "seats": 4,
+    "luggage": 2,
+    "horstpower": "Medium",
+    "price": {
+      "amount": 22000,
+      "currency": "EUR"
+    },
+    "ps": 110
+  },
+  {
+    "vehicleID": "V1014",
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2020,
+    "vehicleType": "Hatchback",
+    "locations": [
+      "Berlin",
+      "Munich",
+      "Hamburg",
+      "Dortmund",
+      "Freiburg",
+      "Schwerin"
+    ],
+    "pricePerDay": 65,
+    "availability": true,
+    "car": "White",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712568921/Cars/DALL_E_2024-04-08_11.35.14_-_Create_an_image_on_a_white_background_featuring_a_white_2020_Ford_Focus_hatchback._Ensure_the_entire_image_including_edges_remains_bright_with_a_min_cnffc0.webp",
+    "seats": 4,
+    "luggage": 2,
+    "horstpower": "Medium",
+    "price": {
+      "amount": 23000,
+      "currency": "EUR"
+    },
+    "ps": 115
+  },
+  {
+    "vehicleID": "V1015",
+    "brand": "Volkswagen",
+    "model": "Passat",
+    "year": 2019,
+    "vehicleType": "Sedan",
+    "locations": [
+      "Munich",
+      "Frankfurt",
+      "Hamburg",
+      "Cologne",
+      "Essen",
+      "Saarbrücken"
+    ],
+    "pricePerDay": 75,
+    "availability": true,
+    "car": "Black",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712569149/Cars/DALL_E_2024-04-08_11.39.03_-_Create_an_image_on_a_white_background_featuring_a_black_2019_Volkswagen_Passat_sedan_ensuring_the_background_is_exceptionally_bright_with_no_shadows_dn9bwr.webp",
+    "seats": 5,
+    "luggage": 3,
+    "horstpower": "High",
+    "price": {
+      "amount": 28000,
+      "currency": "EUR"
+    },
+    "ps": 150
+  },
+  {
+    "vehicleID": "V1016",
+    "brand": "BMW",
+    "model": "5 Series",
+    "year": 2021,
+    "vehicleType": "Sedan",
+    "locations": [
+      "Berlin",
+      "Stuttgart",
+      "Munich",
+      "Hamburg",
+      "Potsdam",
+      "Bremerhaven"
+    ],
+    "pricePerDay": 90,
+    "availability": true,
+    "car": "Blue",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712569123/Cars/DALL_E_2024-04-08_11.38.21_-_Create_an_image_on_a_white_background_featuring_a_blue_2021_BMW_5_Series_sedan_ensuring_the_background_is_exceptionally_bright_with_no_shadows_provi_fiw94v.webp",
+    "seats": 5,
+    "luggage": 3,
+    "horstpower": "High",
+    "price": {
+      "amount": 32000,
+      "currency": "EUR"
+    },
+    "ps": 180
+  },
+  {
+    "vehicleID": "V1017",
+    "brand": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2020,
+    "vehicleType": "Sedan",
+    "locations": [
+      "Munich",
+      "Hamburg",
+      "Berlin",
+      "Dresden",
+      "Trier",
+      "Darmstadt"
+    ],
+    "pricePerDay": 80,
+    "availability": true,
+    "car": "Gray",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712569713/Cars/DALL_E_2024-04-08_11.48.25_-_Create_an_image_featuring_a_gray_2020_Mercedes-Benz_C-Class_sedan_with_a_pure_white_background_and_minimal_to_no_background_details._The_image_should_wggyxk.webp",
+    "seats": 5,
+    "luggage": 3,
+    "horstpower": "High",
+    "price": {
+      "amount": 30000,
+      "currency": "EUR"
+    },
+    "ps": 170
+  },
+  {
+    "vehicleID": "V1018",
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2019,
+    "vehicleType": "Sedan",
+    "locations": [
+      "Hamburg",
+      "Munich",
+      "Berlin",
+      "Nuremberg",
+      "Flensburg",
+      "Chemnitz"
+    ],
+    "pricePerDay": 75,
+    "availability": true,
+    "car": "Red",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712569915/Cars/DALL_E_2024-04-08_11.51.48_-_Create_an_image_featuring_a_red_2019_Audi_A4_sedan_on_a_pure_white_background_including_the_floor_with_the_car_positioned_frontally_from_the_left_si_qdhpdq.webp",
+    "seats": 5,
+    "luggage": 3,
+    "horstpower": "High",
+    "price": {
+      "amount": 29000,
+      "currency": "EUR"
+    },
+    "ps": 160
+  },
+  {
+    "vehicleID": "V1010",
+    "brand": "Porsche",
+    "model": "911",
+    "year": 2021,
+    "vehicleType": "Sportscar",
+    "locations": ["Berlin", "Hamburg", "Munich", "Stuttgart", "Dortmund"],
+    "pricePerDay": 250,
+    "availability": true,
+    "car": "Black",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712571777/Cars/DALL_E_2024-04-08_12.22.44_-_Create_an_image_on_a_pure_white_background_featuring_a_black_2021_Porsche_911_sportscar_positioned_frontally_from_the_left_side_to_match_the_orientat_ztte8c.webp",
+    "seats": 2,
+    "luggage": 1,
+    "horstpower": "Very High",
+    "price": {
+      "amount": 70000,
+      "currency": "EUR"
+    },
+    "ps": 600
+  },
+  {
+    "vehicleID": "V1011",
+    "brand": "Ferrari",
+    "model": "488",
+    "year": 2020,
+    "vehicleType": "Sportscar",
+    "locations": ["Cologne", "Dusseldorf", "Frankfurt", "Dresden", "Leipzig"],
+    "pricePerDay": 350,
+    "availability": true,
+    "car": "Red",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712571862/Cars/DALL_E_2024-04-08_12.24.15_-_Create_an_image_on_a_white_background_featuring_a_red_2020_Ferrari_488_sportscar._Ensure_the_entire_image_including_edges_remains_bright_with_a_mini_ueoviw.webp",
+    "seats": 2,
+    "luggage": 0,
+    "horstpower": "Very High",
+    "price": {
+      "amount": 120000,
+      "currency": "EUR"
+    },
+    "ps": 650
+  },
+  {
+    "vehicleID": "V1012",
+    "brand": "Lamborghini",
+    "model": "Huracan",
+    "year": 2021,
+    "vehicleType": "Sportscar",
+    "locations": ["Nuremberg", "Regensburg", "Würzburg", "Bamberg", "Coburg"],
+    "pricePerDay": 400,
+    "availability": true,
+    "car": "Yellow",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712571910/Cars/DALL_E_2024-04-08_12.25.03_-_Create_an_image_on_a_white_background_featuring_a_yellow_2021_Lamborghini_Huracan_sportscar._Ensure_the_entire_image_including_edges_remains_bright_xagjph.webp",
+    "seats": 5,
+    "luggage": 3,
+    "horstpower": "Very High",
+    "price": {
+      "amount": 110000,
+      "currency": "EUR"
+    },
+    "ps": 700
+  },
+  {
+    "vehicleID": "V1013",
+    "brand": "Aston Martin",
+    "model": "DB11",
+    "year": 2022,
+    "vehicleType": "Sportscar",
+    "locations": ["Bremerhaven", "Flensburg", "Schwerin", "Rostock", "Lübeck"],
+    "pricePerDay": 300,
+    "availability": true,
+    "car": "Blue",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712571934/Cars/DALL_E_2024-04-08_12.25.27_-_Create_an_image_on_a_white_background_featuring_a_blue_2022_Aston_Martin_DB11_sportscar._Ensure_the_entire_image_including_edges_remains_bright_with_z8maj0.webp",
+    "seats": 2,
+    "luggage": 1,
+    "horstpower": "Very High",
+    "price": {
+      "amount": 107000,
+      "currency": "EUR"
+    },
+    "ps": 680
+  },
+  {
+    "vehicleID": "V1014",
+    "brand": "McLaren",
+    "model": "720S",
+    "year": 2022,
+    "vehicleType": "Sportscar",
+    "locations": ["Essen", "Dortmund", "Duisburg", "Bochum", "Gelsenkirchen"],
+    "pricePerDay": 500,
+    "availability": true,
+    "car": "Orange",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712571992/Cars/DALL_E_2024-04-08_12.26.26_-_Create_an_image_on_a_white_background_featuring_an_orange_2022_McLaren_720S_sportscar._Ensure_the_entire_image_including_edges_remains_bright_with_a_tgllmr.webp",
+    "seats": 2,
+    "luggage": 0,
+    "horstpower": "Very High",
+    "price": {
+      "amount": 160000,
+      "currency": "EUR"
+    },
+    "ps": 750
+  },
+  {
+    "vehicleID": "V1015",
+    "brand": "Mercedes-Benz",
+    "model": "Sprinter",
+    "year": 2020,
+    "vehicleType": "Van",
+    "locations": ["Hamburg", "Munich", "Berlin", "Frankfurt", "Stuttgart"],
+    "pricePerDay": 150,
+    "availability": true,
+    "car": "White",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712572010/Cars/DALL_E_2024-04-08_12.26.43_-_Create_an_image_on_a_white_background_featuring_a_white_2020_Mercedes-Benz_Sprinter_van._Ensure_the_entire_image_including_edges_remains_bright_with_xxkfvp.webp",
+    "seats": 3,
+    "luggage": 12,
+    "horstpower": "Medium",
+    "price": {
+      "amount": 40000,
+      "currency": "EUR"
+    },
+    "ps": 180
+  },
+  {
+    "vehicleID": "V1019",
+    "brand": "Nissan",
+    "model": "Qashqai",
+    "year": 2021,
+    "vehicleType": "SUV",
+    "locations": ["Berlin", "Hamburg", "Munich", "Leipzig", "Cologne"],
+    "pricePerDay": 80,
+    "availability": true,
+    "car": "Silver",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712572396/Cars/DALL_E_2024-04-08_12.33.06_-_Create_an_image_on_a_white_background_featuring_a_silver_2021_Nissan_Qashqai_SUV._The_background_should_be_a_normal_white_without_overexposure_or_exc_fbndna.webp",
+    "seats": 5,
+    "luggage": 3,
+    "horstpower": "Medium",
+    "price": {
+      "amount": 25000,
+      "currency": "EUR"
+    },
+    "ps": 130
+  },
+  {
+    "vehicleID": "V1020",
+    "brand": "Mercedes-Benz",
+    "model": "V-Class",
+    "year": 2022,
+    "vehicleType": "Van",
+    "locations": [
+      "Stuttgart",
+      "Dusseldorf",
+      "Frankfurt",
+      "Dresden",
+      "Nuremberg"
+    ],
+    "pricePerDay": 120,
+    "availability": true,
+    "car": "Black",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712572348/Cars/DALL_E_2024-04-08_12.32.18_-_Create_an_image_on_a_white_background_featuring_a_black_2022_Mercedes-Benz_V-Class_van._Ensure_the_entire_image_including_edges_remains_bright_with_wexzro.webp",
+    "seats": 7,
+    "luggage": 4,
+    "horstpower": "High",
+    "price": {
+      "amount": 55000,
+      "currency": "EUR"
+    },
+    "ps": 190
+  },
+  {
+    "vehicleID": "V1021",
+    "brand": "Volkswagen",
+    "model": "Tiguan",
+    "year": 2020,
+    "vehicleType": "SUV",
+    "locations": ["Berlin", "Munich", "Hamburg", "Cologne", "Frankfurt"],
+    "pricePerDay": 85,
+    "availability": true,
+    "car": "Grey",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712572583/Cars/DALL_E_2024-04-08_12.36.15_-_Create_an_image_featuring_a_grey_2020_Volkswagen_Tiguan_SUV_with_a_pure_white_background_ensuring_no_shadows_or_details_are_present_in_the_background_hmrhaf.webp",
+    "seats": 5,
+    "luggage": 3,
+    "horstpower": "Medium",
+    "price": {
+      "amount": 30000,
+      "currency": "EUR"
+    },
+    "ps": 150
+  },
+  {
+    "vehicleID": "V1022",
+    "brand": "Ford",
+    "model": "Transit",
+    "year": 2021,
+    "vehicleType": "Van",
+    "locations": ["Stuttgart", "Leipzig", "Nuremberg", "Dresden", "Bremen"],
+    "pricePerDay": 100,
+    "availability": true,
+    "car": "White",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712572488/Cars/DALL_E_2024-04-08_12.34.34_-_Create_an_image_on_a_white_background_featuring_a_white_2021_Ford_Transit_van._The_background_should_be_a_normal_white_without_overexposure_or_excess_wrybxl.webp",
+    "seats": 2,
+    "luggage": 10,
+    "horstpower": "Medium",
+    "price": {
+      "amount": 35000,
+      "currency": "EUR"
+    },
+    "ps": 130
+  },
+  {
+    "vehicleID": "V1023",
+    "brand": "Audi",
+    "model": "Q5",
+    "year": 2021,
+    "vehicleType": "SUV",
+    "locations": ["Munich", "Berlin", "Hamburg", "Frankfurt", "Dusseldorf"],
+    "pricePerDay": 95,
+    "availability": true,
+    "car": "Blue",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712572638/Cars/DALL_E_2024-04-08_12.37.11_-_Create_an_image_on_a_white_background_featuring_a_blue_2021_Audi_Q5_SUV._Ensure_the_entire_image_including_edges_remains_bright_with_a_minimalistic_zbqzy7.webp",
+    "seats": 5,
+    "luggage": 4,
+    "horstpower": "High",
+    "price": {
+      "amount": 45000,
+      "currency": "EUR"
+    },
+    "ps": 200
+  },
+  {
+    "vehicleID": "V1024",
+    "brand": "Renault",
+    "model": "Kadjar",
+    "year": 2020,
+    "vehicleType": "SUV",
+    "locations": ["Dortmund", "Leipzig", "Stuttgart", "Hamburg", "Munich"],
+    "pricePerDay": 70,
+    "availability": true,
+    "car": "Red",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712572663/Cars/DALL_E_2024-04-08_12.37.36_-_Create_an_image_on_a_white_background_featuring_a_red_2020_Renault_Kadjar_SUV._Ensure_the_entire_image_including_edges_remains_bright_with_a_minimal_wwnrgg.webp",
+    "seats": 5,
+    "luggage": 3,
+    "horstpower": "Medium",
+    "price": {
+      "amount": 22000,
+      "currency": "EUR"
+    },
+    "ps": 140
+  },
+  {
+    "vehicleID": "V1025",
+    "brand": "Peugeot",
+    "model": "5008",
+    "year": 2021,
+    "vehicleType": "SUV",
+    "locations": ["Cologne", "Berlin", "Dresden", "Leipzig", "Nuremberg"],
+    "pricePerDay": 75,
+    "availability": true,
+    "car": "White",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712572729/Cars/DALL_E_2024-04-08_12.38.41_-_Create_an_image_on_a_white_background_featuring_a_white_2021_Peugeot_5008_SUV._Ensure_the_entire_image_including_edges_remains_bright_with_a_minimal_covqyw.webp",
+    "seats": 7,
+    "luggage": 3,
+    "horstpower": "Medium",
+    "price": {
+      "amount": 32000,
+      "currency": "EUR"
+    },
+    "ps": 130
+  },
+  {
+    "vehicleID": "V1026",
+    "brand": "Citroen",
+    "model": "Berlingo",
+    "year": 2019,
+    "vehicleType": "Van",
+    "locations": ["Munich", "Stuttgart", "Frankfurt", "Hamburg", "Berlin"],
+    "pricePerDay": 60,
+    "availability": true,
+    "car": "Blue",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712572753/Cars/DALL_E_2024-04-08_12.39.06_-_Create_an_image_on_a_white_background_featuring_a_blue_2019_Citroen_Berlingo_van._Ensure_the_entire_image_including_edges_remains_bright_with_a_mini_j7jdmy.webp",
+    "seats": 5,
+    "luggage": 4,
+    "horstpower": "Low",
+    "price": {
+      "amount": 20000,
+      "currency": "EUR"
+    },
+    "ps": 110
+  },
+  {
+    "vehicleID": "V1027",
+    "brand": "Kia",
+    "model": "Sorento",
+    "year": 2021,
+    "vehicleType": "SUV",
+    "locations": ["Dusseldorf", "Cologne", "Berlin", "Munich", "Hamburg"],
+    "pricePerDay": 90,
+    "availability": true,
+    "car": "Silver",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712572823/Cars/DALL_E_2024-04-08_12.40.14_-_Create_an_image_on_a_white_background_featuring_a_silver_2021_Kia_Sorento_SUV._Ensure_the_entire_image_including_edges_remains_bright_with_a_minimal_ar2qua.webp",
+    "seats": 7,
+    "luggage": 4,
+    "horstpower": "High",
+    "price": {
+      "amount": 40000,
+      "currency": "EUR"
+    },
+    "ps": 200
+  },
+  {
+    "vehicleID": "V1028",
+    "brand": "Opel",
+    "model": "Zafira",
+    "year": 2019,
+    "vehicleType": "Van",
+    "locations": ["Leipzig", "Dresden", "Nuremberg", "Stuttgart", "Hamburg"],
+    "pricePerDay": 65,
+    "availability": true,
+    "car": "Grey",
+    "electricVehicle": false,
+    "carImg": "https://res.cloudinary.com/dg1qeccqc/image/upload/v1712573218/Cars/DALL_E_2024-04-08_12.46.48_-_Create_an_image_on_a_white_background_featuring_a_grey_2019_Opel_Zafira_van._Ensure_the_entire_image_including_edges_remains_bright_with_a_minimalis_xizkoz.webp",
+    "seats": 7,
+    "luggage": 3,
+    "horstpower": "Medium",
+    "price": {
+      "amount": 23000,
+      "currency": "EUR"
+    },
+    "ps": 120
+  }
+]
