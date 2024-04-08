@@ -19,6 +19,11 @@ https://raw.githubusercontent.com/MarzioCostantini/cars/main/vehicleLocations.js
 Hier ist der Link, um alle verfügbaren Fahrzeugtypen abzurufen:
 https://raw.githubusercontent.com/MarzioCostantini/cars/main/vehicleTypes.json
 
+### Alle Fahrzeugfarben abrufen
+
+Hier ist der Link, um alle verfügbaren Fahrzeugfarben abzurufen:
+https://raw.githubusercontent.com/MarzioCostantini/cars/main/vehicleColors.json
+
 ## Hinweise
 
 - Die Daten werden im JSON-Format bereitgestellt.
