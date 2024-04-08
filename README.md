@@ -7,7 +7,7 @@ Willkommen zur Dokumentation der Autos API. Hier finden Sie nützliche Links und
 ### Alle Autos fetchen
 
 Sie können alle verfügbaren Autos abrufen, indem Sie folgenden Link verwenden:
-https://raw.githubusercontent.com/MarzioCostantini/cars/main/Cars.json
+https://raw.githubusercontent.com/MarzioCostantini/cars/main/vehicles.json
 
 ### Alle Standorte abrufen
 
