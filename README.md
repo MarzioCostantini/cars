@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/MarzioCostantini/cars/main/vehicleColors.json
 ### Alle Schaltungstypen abrufen
 
 Hier ist der Link, um alle verfügbaren Schaltungstypen abzurufen:
-https://raw.githubusercontent.com/MarzioCostantini/cars/main/vehicleGears.json
+https://raw.githubusercontent.com/MarzioCostantini/cars/main/vehiclesGears.json
 
 ### Alle Antriebstypen abrufen
 
