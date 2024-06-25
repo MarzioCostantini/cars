@@ -34,6 +34,11 @@ https://raw.githubusercontent.com/MarzioCostantini/cars/main/vehiclesGears.json
 Hier ist der Link, um alle verfügbaren Antriebstypen abzurufen:
 https://raw.githubusercontent.com/MarzioCostantini/cars/main/vehicleFuels.json
 
+### Alle Reviews abrufen
+
+Hier ist der Link, um alle verfügbaren reviews mit der dazugehörigen ID
+https://raw.githubusercontent.com/MarzioCostantini/cars/main/vehicleReviews.json
+
 ## Hinweise
 
 - Die Daten werden im JSON-Format bereitgestellt.
