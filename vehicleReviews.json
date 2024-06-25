@@ -1,0 +1,486 @@
+[
+  {
+    "vehicleID": "V1001",
+    "reviews": [
+      {
+        "name": "Sarah",
+        "text": "Had a few issues, but overall okay.",
+        "stars": 1,
+        "date": "2024-06-18"
+      },
+      {
+        "name": "Alex",
+        "text": "A few flaws, but customer service was great.",
+        "stars": 5,
+        "date": "2023-07-04"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1002",
+    "reviews": [
+      {
+        "name": "Chris",
+        "text": "Terrible experience, not satisfied.",
+        "stars": 3,
+        "date": "2023-07-24"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1003",
+    "reviews": [
+      {
+        "name": "Mike",
+        "text": "Terrible experience, not satisfied.",
+        "stars": 2,
+        "date": "2023-07-24"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1004",
+    "reviews": [
+      {
+        "name": "Emily",
+        "text": "The value for money is unbeatable.",
+        "stars": 4,
+        "date": "2024-03-25"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1005",
+    "reviews": [
+      {
+        "name": "Sarah",
+        "text": "Had a few issues, but overall okay.",
+        "stars": 3,
+        "date": "2023-10-04"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1006",
+    "reviews": [
+      {
+        "name": "Alex",
+        "text": "Very uncomfortable and poorly equipped.",
+        "stars": 1,
+        "date": "2024-03-11"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1007",
+    "reviews": [
+      {
+        "name": "Jessica",
+        "text": "Very uncomfortable and poorly equipped.",
+        "stars": 1,
+        "date": "2024-02-15"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1008",
+    "reviews": [
+      {
+        "name": "Jane",
+        "text": "Very satisfied with the vehicle.",
+        "stars": 4,
+        "date": "2023-11-09"
+      },
+      {
+        "name": "Jessica",
+        "text": "Had a few issues, but overall okay.",
+        "stars": 3,
+        "date": "2024-06-15"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1009",
+    "reviews": [
+      {
+        "name": "Sarah",
+        "text": "Fantastic driving experience!",
+        "stars": 4,
+        "date": "2023-12-27"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1010",
+    "reviews": [
+      {
+        "name": "Chris",
+        "text": "Very comfortable and well-equipped.",
+        "stars": 5,
+        "date": "2023-10-11"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1011",
+    "reviews": [
+      {
+        "name": "John",
+        "text": "Had a few issues, but overall okay.",
+        "stars": 1,
+        "date": "2024-02-19"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1012",
+    "reviews": [
+      {
+        "name": "Chris",
+        "text": "The car is reliable and economical.",
+        "stars": 2,
+        "date": "2023-12-16"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1013",
+    "reviews": [
+      {
+        "name": "Jessica",
+        "text": "A few flaws, but customer service was great.",
+        "stars": 4,
+        "date": "2023-09-25"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1014",
+    "reviews": [
+      {
+        "name": "Sarah",
+        "text": "Very comfortable and well-equipped.",
+        "stars": 5,
+        "date": "2023-08-17"
+      },
+      {
+        "name": "Emily",
+        "text": "Very satisfied with the vehicle.",
+        "stars": 5,
+        "date": "2024-01-02"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1015",
+    "reviews": [
+      {
+        "name": "Sarah",
+        "text": "Very comfortable and well-equipped.",
+        "stars": 5,
+        "date": "2024-01-18"
+      },
+      {
+        "name": "Alex",
+        "text": "The car is reliable and economical.",
+        "stars": 1,
+        "date": "2024-03-09"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1016",
+    "reviews": [
+      {
+        "name": "Sarah",
+        "text": "The value for money is unbeatable.",
+        "stars": 4,
+        "date": "2023-08-28"
+      },
+      {
+        "name": "John",
+        "text": "Terrible experience, not satisfied.",
+        "stars": 3,
+        "date": "2024-06-08"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1017",
+    "reviews": [
+      {
+        "name": "Emily",
+        "text": "Very uncomfortable and poorly equipped.",
+        "stars": 1,
+        "date": "2024-02-05"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1018",
+    "reviews": [
+      {
+        "name": "Sarah",
+        "text": "Very uncomfortable and poorly equipped.",
+        "stars": 1,
+        "date": "2023-11-24"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1019",
+    "reviews": [
+      {
+        "name": "Jessica",
+        "text": "Very comfortable and well-equipped.",
+        "stars": 4,
+        "date": "2023-07-25"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1020",
+    "reviews": [
+      {
+        "name": "Chris",
+        "text": "Very uncomfortable and poorly equipped.",
+        "stars": 1,
+        "date": "2024-06-09"
+      },
+      {
+        "name": "Mike",
+        "text": "Terrible experience, not satisfied.",
+        "stars": 2,
+        "date": "2023-07-05"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1021",
+    "reviews": [
+      {
+        "name": "Jessica",
+        "text": "Terrible experience, not satisfied.",
+        "stars": 3,
+        "date": "2023-09-11"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1022",
+    "reviews": [
+      {
+        "name": "Chris",
+        "text": "A few flaws, but customer service was great.",
+        "stars": 5,
+        "date": "2024-03-27"
+      },
+      {
+        "name": "John",
+        "text": "A few flaws, but customer service was great.",
+        "stars": 5,
+        "date": "2024-05-10"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1023",
+    "reviews": [
+      {
+        "name": "Jessica",
+        "text": "Very uncomfortable and poorly equipped.",
+        "stars": 1,
+        "date": "2024-01-10"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1024",
+    "reviews": [
+      {
+        "name": "John",
+        "text": "Very uncomfortable and poorly equipped.",
+        "stars": 2,
+        "date": "2024-06-02"
+      },
+      {
+        "name": "Jane",
+        "text": "The car is reliable and economical.",
+        "stars": 2,
+        "date": "2024-04-08"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1025",
+    "reviews": [
+      {
+        "name": "Mike",
+        "text": "Had a few issues, but overall okay.",
+        "stars": 3,
+        "date": "2023-08-17"
+      },
+      {
+        "name": "Sarah",
+        "text": "Terrible experience, not satisfied.",
+        "stars": 1,
+        "date": "2024-03-12"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1026",
+    "reviews": [
+      {
+        "name": "Jessica",
+        "text": "Fantastic driving experience!",
+        "stars": 4,
+        "date": "2023-12-26"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1027",
+    "reviews": [
+      {
+        "name": "John",
+        "text": "Fantastic driving experience!",
+        "stars": 4,
+        "date": "2023-09-04"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1028",
+    "reviews": [
+      {
+        "name": "Jane",
+        "text": "Very comfortable and well-equipped.",
+        "stars": 4,
+        "date": "2024-02-20"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1029",
+    "reviews": [
+      {
+        "name": "Chris",
+        "text": "Fantastic driving experience!",
+        "stars": 4,
+        "date": "2024-02-25"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1030",
+    "reviews": [
+      {
+        "name": "Mike",
+        "text": "The car is reliable and economical.",
+        "stars": 2,
+        "date": "2024-01-19"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1031",
+    "reviews": [
+      {
+        "name": "Chris",
+        "text": "Fantastic driving experience!",
+        "stars": 4,
+        "date": "2023-09-06"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1032",
+    "reviews": [
+      {
+        "name": "Jessica",
+        "text": "Fantastic driving experience!",
+        "stars": 5,
+        "date": "2024-06-01"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1033",
+    "reviews": [
+      {
+        "name": "Alex",
+        "text": "Very uncomfortable and poorly equipped.",
+        "stars": 2,
+        "date": "2024-06-06"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1034",
+    "reviews": [
+      {
+        "name": "Jessica",
+        "text": "Very comfortable and well-equipped.",
+        "stars": 5,
+        "date": "2023-08-30"
+      },
+      {
+        "name": "John",
+        "text": "Very uncomfortable and poorly equipped.",
+        "stars": 2,
+        "date": "2024-01-19"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1035",
+    "reviews": [
+      {
+        "name": "Mike",
+        "text": "The car is reliable and economical.",
+        "stars": 2,
+        "date": "2024-03-25"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1036",
+    "reviews": [
+      {
+        "name": "Chris",
+        "text": "The value for money is unbeatable.",
+        "stars": 5,
+        "date": "2023-09-10"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1037",
+    "reviews": [
+      {
+        "name": "Mike",
+        "text": "Would not recommend this car.",
+        "stars": 2,
+        "date": "2024-05-30"
+      }
+    ]
+  },
+  {
+    "vehicleID": "V1038",
+    "reviews": [
+      {
+        "name": "Mike",
+        "text": "Very uncomfortable and poorly equipped.",
+        "stars": 2,
+        "date": "2023-12-28"
+      },
+      {
+        "name": "Chris",
+        "text": "Very comfortable and well-equipped.",
+        "stars": 4,
+        "date": "2023-09-17"
+      }
+    ]
+  }
+]
