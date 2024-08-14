@@ -129,7 +129,13 @@
     "model": "Fiesta",
     "year": 2020,
     "vehicleType": "Hatchback",
-    "locations": ["Frankfurt", "Stuttgart", "Munich", "Erfurt", "Neumünster"],
+    "locations": [
+      "Frankfurt",
+      "Stuttgart",
+      "Munich",
+      "Erfurt",
+      "Neumünster"
+    ],
     "pricePerDay": 55,
     "availability": true,
     "car": "White",
@@ -174,7 +180,6 @@
       "currency": "EUR"
     },
     "ps": 120,
-
     "consumption": "5,7",
     "fuel": "Diesel",
     "gearType": "Automatic"
@@ -588,7 +593,13 @@
     "model": "911",
     "year": 2021,
     "vehicleType": "Sportscar",
-    "locations": ["Berlin", "Hamburg", "Munich", "Stuttgart", "Dortmund"],
+    "locations": [
+      "Berlin",
+      "Hamburg",
+      "Munich",
+      "Stuttgart",
+      "Dortmund"
+    ],
     "pricePerDay": 250,
     "availability": true,
     "car": "Black",
@@ -612,7 +623,13 @@
     "model": "488",
     "year": 2020,
     "vehicleType": "Sportscar",
-    "locations": ["Cologne", "Dusseldorf", "Frankfurt", "Dresden", "Leipzig"],
+    "locations": [
+      "Cologne",
+      "Dusseldorf",
+      "Frankfurt",
+      "Dresden",
+      "Leipzig"
+    ],
     "pricePerDay": 350,
     "availability": true,
     "car": "Red",
@@ -631,12 +648,18 @@
     "gearType": "Automatic"
   },
   {
-    "vehicleID": "V1012",
+    "vehicleID": "V1012329",
     "brand": "Lamborghini",
     "model": "Huracan",
     "year": 2021,
     "vehicleType": "Sportscar",
-    "locations": ["Nuremberg", "Regensburg", "Würzburg", "Bamberg", "Coburg"],
+    "locations": [
+      "Nuremberg",
+      "Regensburg",
+      "Würzburg",
+      "Bamberg",
+      "Coburg"
+    ],
     "pricePerDay": 400,
     "availability": true,
     "car": "Yellow",
@@ -660,7 +683,13 @@
     "model": "DB11",
     "year": 2022,
     "vehicleType": "Sportscar",
-    "locations": ["Bremerhaven", "Flensburg", "Schwerin", "Rostock", "Lübeck"],
+    "locations": [
+      "Bremerhaven",
+      "Flensburg",
+      "Schwerin",
+      "Rostock",
+      "Lübeck"
+    ],
     "pricePerDay": 300,
     "availability": true,
     "car": "Blue",
@@ -684,7 +713,13 @@
     "model": "720S",
     "year": 2022,
     "vehicleType": "Sportscar",
-    "locations": ["Essen", "Dortmund", "Duisburg", "Bochum", "Gelsenkirchen"],
+    "locations": [
+      "Essen",
+      "Dortmund",
+      "Duisburg",
+      "Bochum",
+      "Gelsenkirchen"
+    ],
     "pricePerDay": 500,
     "availability": true,
     "car": "Orange",
@@ -708,7 +743,13 @@
     "model": "Sprinter",
     "year": 2020,
     "vehicleType": "Van",
-    "locations": ["Hamburg", "Munich", "Berlin", "Frankfurt", "Stuttgart"],
+    "locations": [
+      "Hamburg",
+      "Munich",
+      "Berlin",
+      "Frankfurt",
+      "Stuttgart"
+    ],
     "pricePerDay": 150,
     "availability": true,
     "car": "White",
@@ -732,7 +773,13 @@
     "model": "Qashqai",
     "year": 2021,
     "vehicleType": "SUV",
-    "locations": ["Berlin", "Hamburg", "Munich", "Leipzig", "Cologne"],
+    "locations": [
+      "Berlin",
+      "Hamburg",
+      "Munich",
+      "Leipzig",
+      "Cologne"
+    ],
     "pricePerDay": 80,
     "availability": true,
     "car": "Silver",
@@ -786,7 +833,13 @@
     "model": "Tiguan",
     "year": 2020,
     "vehicleType": "SUV",
-    "locations": ["Berlin", "Munich", "Hamburg", "Cologne", "Frankfurt"],
+    "locations": [
+      "Berlin",
+      "Munich",
+      "Hamburg",
+      "Cologne",
+      "Frankfurt"
+    ],
     "pricePerDay": 85,
     "availability": true,
     "car": "Grey",
@@ -810,7 +863,13 @@
     "model": "Transit",
     "year": 2021,
     "vehicleType": "Van",
-    "locations": ["Stuttgart", "Leipzig", "Nuremberg", "Dresden", "Bremen"],
+    "locations": [
+      "Stuttgart",
+      "Leipzig",
+      "Nuremberg",
+      "Dresden",
+      "Bremen"
+    ],
     "pricePerDay": 100,
     "availability": true,
     "car": "White",
@@ -834,7 +893,13 @@
     "model": "Q5",
     "year": 2021,
     "vehicleType": "SUV",
-    "locations": ["Munich", "Berlin", "Hamburg", "Frankfurt", "Dusseldorf"],
+    "locations": [
+      "Munich",
+      "Berlin",
+      "Hamburg",
+      "Frankfurt",
+      "Dusseldorf"
+    ],
     "pricePerDay": 95,
     "availability": true,
     "car": "Blue",
@@ -858,7 +923,13 @@
     "model": "Kadjar",
     "year": 2020,
     "vehicleType": "SUV",
-    "locations": ["Dortmund", "Leipzig", "Stuttgart", "Hamburg", "Munich"],
+    "locations": [
+      "Dortmund",
+      "Leipzig",
+      "Stuttgart",
+      "Hamburg",
+      "Munich"
+    ],
     "pricePerDay": 70,
     "availability": true,
     "car": "Red",
@@ -882,7 +953,13 @@
     "model": "5008",
     "year": 2021,
     "vehicleType": "SUV",
-    "locations": ["Cologne", "Berlin", "Dresden", "Leipzig", "Nuremberg"],
+    "locations": [
+      "Cologne",
+      "Berlin",
+      "Dresden",
+      "Leipzig",
+      "Nuremberg"
+    ],
     "pricePerDay": 75,
     "availability": true,
     "car": "White",
@@ -906,7 +983,13 @@
     "model": "Berlingo",
     "year": 2019,
     "vehicleType": "Van",
-    "locations": ["Munich", "Stuttgart", "Frankfurt", "Hamburg", "Berlin"],
+    "locations": [
+      "Munich",
+      "Stuttgart",
+      "Frankfurt",
+      "Hamburg",
+      "Berlin"
+    ],
     "pricePerDay": 60,
     "availability": true,
     "car": "Blue",
@@ -930,7 +1013,13 @@
     "model": "Sorento",
     "year": 2021,
     "vehicleType": "SUV",
-    "locations": ["Dusseldorf", "Cologne", "Berlin", "Munich", "Hamburg"],
+    "locations": [
+      "Dusseldorf",
+      "Cologne",
+      "Berlin",
+      "Munich",
+      "Hamburg"
+    ],
     "pricePerDay": 90,
     "availability": true,
     "car": "Silver",
@@ -954,7 +1043,13 @@
     "model": "Zafira",
     "year": 2019,
     "vehicleType": "Van",
-    "locations": ["Leipzig", "Dresden", "Nuremberg", "Stuttgart", "Hamburg"],
+    "locations": [
+      "Leipzig",
+      "Dresden",
+      "Nuremberg",
+      "Stuttgart",
+      "Hamburg"
+    ],
     "pricePerDay": 65,
     "availability": true,
     "car": "Grey",
