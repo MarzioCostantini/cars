@@ -5,6 +5,7 @@
     "model": "Golf",
     "year": 2018,
     "vehicleType": "Sedan",
+    "colors": "Blue",
     "locations": [
       "Berlin",
       "Munich",
@@ -59,7 +60,8 @@
     "ps": 150,
     "consumption": "9",
     "fuel": "Gasoline",
-    "gearType": "Automatic"
+    "gearType": "Automatic",
+    "colors": "Black"
   },
   {
     "vehicleID": "V1003",
@@ -90,7 +92,8 @@
     "ps": 250,
     "consumption": "15,7 kWh",
     "fuel": "Electrical",
-    "gearType": "Automatic"
+    "gearType": "Automatic",
+    "colors": "Red"
   },
   {
     "vehicleID": "V1004",
@@ -121,7 +124,8 @@
     "ps": 90,
     "consumption": "5",
     "fuel": "Gasoline",
-    "gearType": "Manuel"
+    "gearType": "Manuel",
+    "colors": "Silver"
   },
   {
     "vehicleID": "V1005",
@@ -151,7 +155,8 @@
     "ps": 85,
     "consumption": "6",
     "fuel": "Gasoline",
-    "gearType": "Manuel"
+    "gearType": "Manuel",
+    "colors": "White"
   },
   {
     "vehicleID": "V1006",
@@ -182,7 +187,8 @@
     "ps": 120,
     "consumption": "5,7",
     "fuel": "Diesel",
-    "gearType": "Automatic"
+    "gearType": "Automatic",
+    "colors": "Silver"
   },
   {
     "vehicleID": "V1007",
@@ -213,7 +219,8 @@
     "ps": 150,
     "consumption": "5,7",
     "fuel": "Diesel",
-    "gearType": "Automatic"
+    "gearType": "Automatic",
+    "colors": "Black"
   },
   {
     "vehicleID": "V1008",
@@ -244,7 +251,8 @@
     "ps": 95,
     "consumption": "6,7",
     "fuel": "Autogas",
-    "gearType": "Manuel"
+    "gearType": "Manuel",
+    "colors": "Silver"
   },
   {
     "vehicleID": "V1009",
@@ -275,7 +283,8 @@
     "ps": 140,
     "consumption": "9,7",
     "fuel": "Gasoline",
-    "gearType": "Automatic"
+    "gearType": "Automatic",
+    "colors": "White"
   },
   {
     "vehicleID": "V1010",
@@ -306,7 +315,8 @@
     "ps": 80,
     "consumption": "7",
     "fuel": "Gasoline",
-    "gearType": "Manuel"
+    "gearType": "Manuel",
+    "colors": "Blue"
   },
   {
     "vehicleID": "V1011",
@@ -337,7 +347,8 @@
     "ps": 85,
     "consumption": "4",
     "fuel": "Gasoline",
-    "gearType": "Manuel"
+    "gearType": "Manuel",
+    "colors": "Red"
   },
   {
     "vehicleID": "V1017",
@@ -368,7 +379,8 @@
     "ps": 120,
     "consumption": "6",
     "fuel": "Gasoline",
-    "gearType": "Manuel"
+    "gearType": "Manuel",
+    "colors": "Blue"
   },
   {
     "vehicleID": "V1012",
@@ -399,7 +411,8 @@
     "ps": 90,
     "consumption": "5,5",
     "fuel": "Gasoline",
-    "gearType": "Manuel"
+    "gearType": "Manuel",
+    "colors": "Silver"
   },
   {
     "vehicleID": "V1013",
@@ -430,7 +443,8 @@
     "ps": 110,
     "consumption": "6,4",
     "fuel": "Gasoline",
-    "gearType": "Manuel"
+    "gearType": "Manuel",
+    "colors": "Black"
   },
   {
     "vehicleID": "V1014",
@@ -461,7 +475,8 @@
     "ps": 115,
     "consumption": "4,8",
     "fuel": "Gasoline",
-    "gearType": "Manuel"
+    "gearType": "Manuel",
+    "colors": "White"
   },
   {
     "vehicleID": "V1015",
@@ -492,7 +507,8 @@
     "ps": 150,
     "consumption": "5",
     "fuel": "Diesel",
-    "gearType": "Automatic"
+    "gearType": "Automatic",
+    "colors": "Black"
   },
   {
     "vehicleID": "V1016",
@@ -523,7 +539,8 @@
     "ps": 180,
     "consumption": "4,5",
     "fuel": "Diesel",
-    "gearType": "Automatic"
+    "gearType": "Automatic",
+    "colors": "Blue"
   },
   {
     "vehicleID": "V1017",
@@ -554,7 +571,8 @@
     "ps": 170,
     "consumption": "6",
     "fuel": "Diesel",
-    "gearType": "Automatic"
+    "gearType": "Automatic",
+    "colors": "Silver"
   },
   {
     "vehicleID": "V1018",
@@ -585,7 +603,8 @@
     "ps": 160,
     "consumption": "5",
     "fuel": "Gasoline",
-    "gearType": "Automatic"
+    "gearType": "Automatic",
+    "colors": "Red"
   },
   {
     "vehicleID": "V1010",
@@ -615,7 +634,8 @@
     "ps": 600,
     "consumption": "12",
     "fuel": "Gasoline",
-    "gearType": "Automatic"
+    "gearType": "Automatic",
+    "colors": "Black"
   },
   {
     "vehicleID": "V1011",
@@ -645,7 +665,8 @@
     "ps": 650,
     "consumption": "16,6",
     "fuel": "Gasoline",
-    "gearType": "Automatic"
+    "gearType": "Automatic",
+    "colors": "Red"
   },
   {
     "vehicleID": "V1012329",
@@ -675,7 +696,8 @@
     "ps": 700,
     "consumption": "16",
     "fuel": "Gasoline",
-    "gearType": "Automatic"
+    "gearType": "Automatic",
+    "colors": "Yellow"
   },
   {
     "vehicleID": "V1013",
@@ -705,7 +727,8 @@
     "ps": 680,
     "consumption": "18",
     "fuel": "Gasoline",
-    "gearType": "Automatic"
+    "gearType": "Automatic",
+    "colors": "Blue"
   },
   {
     "vehicleID": "V1014",
@@ -735,7 +758,8 @@
     "ps": 750,
     "consumption": "18,8",
     "fuel": "Gasoline",
-    "gearType": "Automatic"
+    "gearType": "Automatic",
+    "colors": "Orange"
   },
   {
     "vehicleID": "V1015",
@@ -765,7 +789,8 @@
     "ps": 180,
     "consumption": "7,7",
     "fuel": "Diesel",
-    "gearType": "Manuel"
+    "gearType": "Manuel",
+    "colors": "White"
   },
   {
     "vehicleID": "V1019",
@@ -795,7 +820,8 @@
     "ps": 130,
     "consumption": "7,7",
     "fuel": "Gasoline",
-    "gearType": "Automatic"
+    "gearType": "Automatic",
+    "colors": "Silver"
   },
   {
     "vehicleID": "V1020",
@@ -825,7 +851,8 @@
     "ps": 190,
     "consumption": "8,9",
     "fuel": "Diesel",
-    "gearType": "Automatic"
+    "gearType": "Automatic",
+    "colors": "Black"
   },
   {
     "vehicleID": "V1021",
@@ -855,7 +882,8 @@
     "ps": 150,
     "consumption": "7",
     "fuel": "Gasoline",
-    "gearType": "Automatic"
+    "gearType": "Automatic",
+    "colors": "Silver"
   },
   {
     "vehicleID": "V1022",
@@ -885,7 +913,8 @@
     "ps": 130,
     "consumption": "8,3",
     "fuel": "Diesel",
-    "gearType": "Manuel"
+    "gearType": "Manuel",
+    "colors": "White"
   },
   {
     "vehicleID": "V1023",
@@ -915,7 +944,8 @@
     "ps": 200,
     "consumption": "6,3",
     "fuel": "Diesel",
-    "gearType": "Automatic"
+    "gearType": "Automatic",
+    "colors": "Blue"
   },
   {
     "vehicleID": "V1024",
@@ -945,7 +975,8 @@
     "ps": 140,
     "consumption": "5,2",
     "fuel": "Gasoline",
-    "gearType": "Automatic"
+    "gearType": "Automatic",
+    "colors": "Red"
   },
   {
     "vehicleID": "V1025",
@@ -975,7 +1006,8 @@
     "ps": 130,
     "consumption": "7",
     "fuel": "Diesel",
-    "gearType": "Automatic"
+    "gearType": "Automatic",
+    "colors": "White"
   },
   {
     "vehicleID": "V1026",
@@ -1005,7 +1037,8 @@
     "ps": 110,
     "consumption": "8",
     "fuel": "Diesel",
-    "gearType": "Manuel"
+    "gearType": "Manuel",
+    "colors": "Blue"
   },
   {
     "vehicleID": "V1027",
@@ -1035,7 +1068,8 @@
     "ps": 200,
     "consumption": "6,8",
     "fuel": "Gasoline",
-    "gearType": "Manuel"
+    "gearType": "Manuel",
+    "colors": "Silver"
   },
   {
     "vehicleID": "V1028",
@@ -1065,6 +1099,7 @@
     "ps": 120,
     "consumption": "4,9",
     "fuel": "Diesel",
-    "gearType": "Manuel"
+    "gearType": "Manuel",
+    "colors": "Silver"
   }
 ]
